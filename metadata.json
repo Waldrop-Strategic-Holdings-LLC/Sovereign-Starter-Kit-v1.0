@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Sovereign Starter Kit v1.0",
+  "author": {
+    "@type": "Person",
+    "name": "Justin Waldrop"
+  },
+  "creator": {
+    "@type": "Organization",
+    "name": "Project Sovereignty"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Project Sovereignty"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "datePublished": "2025-06-01",
+  "fileFormat": "application/pdf",
+  "url": "https://projectsovereignty.xyz/Sovereign_Starter_Kit_v1.0.pdf",
+  "version": "1.0",
+  "description": "A modular toolkit for achieving personal digital sovereignty across secure communication, encrypted storage, private browsing, and mobile lockdown protocols.",
+  "identifier": "sha256:2fc8fb229b357498f39181982355f0678880e3990f1ccaf5e6d849b2e5637638"
+}
